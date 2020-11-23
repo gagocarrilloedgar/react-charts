@@ -1,0 +1,68 @@
+[
+  {
+    "Nombre": "Carlos",
+    "Total": 2559,
+    "Reto1": 400,
+    "Reto2": 237,
+    "Reto3": 286,
+    "Campeonato": 666,
+    "Gmat": 482,
+    "Trivia": 488,
+    "Link":"/Carlos"
+  },
+  {
+    "Nombre": "Jordi",
+    "Total": 2491,
+    "Reto1": 382,
+    "Reto2": 467,
+    "Reto3": 61,
+    "Campeonato": 964,
+    "Gmat": 213,
+    "Trivia": 404,
+    "Link":"/Jordi"
+  },
+  {
+    "Nombre": "Cristina",
+    "Total": 2485,
+    "Reto1": 101,
+    "Reto2": 492,
+    "Reto3": 95,
+    "Campeonato": 1122,
+    "Gmat": 181,
+    "Trivia": 494,
+    "Link":"/Jordi"
+  },
+  {
+    "Nombre": "Maria",
+    "Total": 2254,
+    "Reto1": 245,
+    "Reto2": 467,
+    "Reto3": 272,
+    "Campeonato": 637,
+    "Gmat": 311,
+    "Trivia": 322,
+    "Link":"/Jordi"
+  },
+  {
+    "Nombre": "Guille",
+    "Total": 1944,
+    "Reto1": 341,
+    "Reto2": 332,
+    "Reto3": 318,
+    "Campeonato": 683,
+    "Gmat": 187,
+    "Trivia": 83,
+    "Link":"/Jordi"
+  },
+  {
+    "Nombre": "Edgar",
+    "Total": 1833,
+    "Reto1": 162,
+    "Reto2": 419,
+    "Reto3": 218,
+    "Campeonato": 807,
+    "Gmat": 87,
+    "Trivia": 140,
+    "Link":"/Jordi"
+  }
+]
